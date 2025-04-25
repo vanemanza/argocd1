@@ -1,6 +1,6 @@
 # argocd1
 
-Bajarse el repo actual
+Bajarse el repo actual - ok
 
 git clone https://github.com/diegochavezcarro/argocd1.git
 
@@ -63,4 +63,6 @@ kubectl delete deploy guestbook-ui
 
 10. Modificar en el repo para agregar una replica mas al deploy. Esperar unos 3 minutos y
 observar el cambio, sin tener que sincronizar manualmente en el ArgoCD
+
+![alt text](image.png)
 

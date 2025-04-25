@@ -6,7 +6,7 @@ metadata:
 spec:
   source:
     path: guestbook
-    repoURL: https://github.com/diegochavezcarro/argocd1.git
+    repoURL: https://github.com/vanemanza/argocd1.git
     targetRevision: HEAD
   destination:
     server: 'https://kubernetes.default.svc'
